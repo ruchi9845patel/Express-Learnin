@@ -1,0 +1,32 @@
+[
+    {
+       "id":1,
+        "name":"ruchi",
+        "age":20,
+        "email":"ruhci@gamil.com"
+    },
+    {
+       "id":2,
+        "name":"kavya",
+        "age":18,
+        "email":"kavya@gamil.com"
+    },
+    {
+       "id":3,
+        "name":"deepak",
+        "age":15,
+        "email":"deepak@gamil.com"
+    },
+    {
+       "id":4,
+        "name":"krishna",
+        "age":15,
+        "email":"krishna@gamil.com"
+    },
+    {
+       "id":5,
+        "name":"duggu",
+        "age":5,
+        "email":"duggu@gamil.com"
+    }
+]

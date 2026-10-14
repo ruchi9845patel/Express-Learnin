@@ -1,0 +1,26 @@
+{
+  "name": "node-js-2026",
+  "version": "1.0.0",
+  "description": "node js nad express js",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "cookieparser": "^0.1.0",
+    "ejs": "^6.0.1",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongodb": "^7.6.0",
+    "mongoose": "^9.9.4",
+    "morgan": "^1.11.0",
+    "multer": "^2.3.0",
+    "nodemon": "^3.1.14"
+  }
+}
